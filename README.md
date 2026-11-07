@@ -1,0 +1,1 @@
+please you read! The ultrasonic I use is HC-SRO4 and if the distance above 200+ the sensor seem to struggle and not so stable in reading the distance the result is that the sensor would register 200 -> 0 -> 200 which caused the red and green LED beep continously, if the distance below than 100 all should be fine! ^^
